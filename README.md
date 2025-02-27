@@ -1,6 +1,6 @@
 <p align="center">
   <h3 align="center">  
-    <strong>[ICLR'25] Can We Trust Embodied Agents? <br>Exploring Backdoor Attacks against Embodied LLM-Based Decision-Making Systems</strong>
+    <strong>Can We Trust Embodied Agents? <br>Exploring Backdoor Attacks against Embodied LLM-Based Decision-Making Systems</strong>
   </h3>
 
 <p align="center">
